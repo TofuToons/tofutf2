@@ -1,1 +1,13 @@
 tf/maps/jb_district_remake_v16.bsp.bz2 filter=lfs diff=lfs merge=lfs -text
+tf/maps/hikikomori_mall_a3.bsp.bz2 filter=lfs diff=lfs merge=lfs -text
+tf/maps/cp_infinite_b8_ws.bsp.bz2 filter=lfs diff=lfs merge=lfs -text
+tf/maps/pl_shoreleave_rc2.bsp.bz2 filter=lfs diff=lfs merge=lfs -text
+tf/maps/pkmn_vermillioncity_b1.bsp.bz2 filter=lfs diff=lfs merge=lfs -text
+tf/maps/pl_downunder_b29.bsp.bz2 filter=lfs diff=lfs merge=lfs -text
+tf/maps/trade_cyberpunk_v1e.bsp.bz2 filter=lfs diff=lfs merge=lfs -text
+tf/maps/trade_rustboro_r5c.bsp.bz2 filter=lfs diff=lfs merge=lfs -text
+tf/maps/plr_valentine_b2.bsp.bz2 filter=lfs diff=lfs merge=lfs -text
+tf/maps/lethargy_pools_a5.bsp.bz2 filter=lfs diff=lfs merge=lfs -text
+tf/maps/dr_newgrounds_hq_v9b.bsp.bz2 filter=lfs diff=lfs merge=lfs -text
+tf/maps/restless_plaza_b2.bsp.bz2 filter=lfs diff=lfs merge=lfs -text
+tf/maps/crypto_forest_a2.bsp.bz2 filter=lfs diff=lfs merge=lfs -text
